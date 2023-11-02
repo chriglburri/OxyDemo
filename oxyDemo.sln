@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oxyPolarDiagram", "oxyPolar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyMouseDemo", "OxyMouseDemo\OxyMouseDemo.csproj", "{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyAxisDemo", "OxyAxisDemo\OxyAxisDemo.csproj", "{BFAB4026-669D-478F-926F-21544AE7FB51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAB4026-669D-478F-926F-21544AE7FB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAB4026-669D-478F-926F-21544AE7FB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAB4026-669D-478F-926F-21544AE7FB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAB4026-669D-478F-926F-21544AE7FB51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
