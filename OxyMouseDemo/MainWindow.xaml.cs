@@ -2,7 +2,6 @@
 using OxyPlot.Annotations;
 using OxyPlot.Series;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Windows;
 
 namespace OxyMouseDemo
