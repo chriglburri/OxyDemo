@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oxyPolarDiagram", "oxyPolarDiagram\oxyPolarDiagram.csproj", "{B39D34E1-33D3-48E9-9750-5808CC76E52C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxyMouseDemo", "OxyMouseDemo\OxyMouseDemo.csproj", "{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B39D34E1-33D3-48E9-9750-5808CC76E52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B39D34E1-33D3-48E9-9750-5808CC76E52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B39D34E1-33D3-48E9-9750-5808CC76E52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421D9F2D-20D1-495F-9E83-ED1B2A8442E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
